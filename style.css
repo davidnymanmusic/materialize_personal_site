@@ -111,4 +111,7 @@ p:hover {
   transform: scale(1);
   transition: .2s
 }
+.card-panel {
+  font-family: 'Megrim', cursive;
+}
 }
